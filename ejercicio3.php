@@ -15,5 +15,5 @@
         <title>
             EJERCICIOS PHP
         </title>
-        <div> <h1>EJERCICIO 1 PHP</h1></div>
+        <div> <h1>EJERCICIO 3 PHP</h1></div>
     </body>    
